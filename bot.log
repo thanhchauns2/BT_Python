@@ -1,0 +1,123 @@
+DEBUG - CLI - 2021-09-28 19:24:06 - Starting CLI
+DEBUG - CLI - 2021-09-28 19:24:07 - Did not set import
+INFO - Main - 2021-09-28 19:27:29 - Starting up
+INFO - Main - 2021-09-28 19:27:31 - Successfully logged in
+INFO - Main - 2021-09-28 19:27:31 - Starting Messages
+INFO - Main - 2021-09-28 19:27:32 - Finished Messages
+INFO - Main - 2021-09-28 19:27:32 - Starting Posts
+INFO - Main - 2021-09-28 19:32:59 - Starting up
+INFO - Main - 2021-09-28 19:34:18 - Starting up
+INFO - Main - 2021-09-28 19:34:19 - Successfully logged in
+INFO - Main - 2021-09-28 19:34:19 - Starting Messages
+INFO - Main - 2021-09-28 19:34:20 - Finished Messages
+INFO - Main - 2021-09-28 19:34:20 - Starting Posts
+INFO - Main - 2021-09-28 19:34:38 - Starting up
+INFO - Main - 2021-09-28 19:36:24 - Starting up
+INFO - Main - 2021-09-28 19:38:24 - Starting up
+INFO - Main - 2021-09-28 19:38:55 - Starting up
+INFO - Main - 2021-09-28 19:39:15 - Starting up
+INFO - Main - 2021-09-28 19:41:07 - Starting up
+INFO - Main - 2021-09-28 19:41:08 - Successfully logged in
+INFO - Main - 2021-09-28 19:41:08 - Starting Messages
+INFO - Main - 2021-09-28 19:41:09 - Finished Messages
+INFO - Main - 2021-09-28 19:41:09 - Starting Posts
+INFO - Main - 2021-09-28 19:55:43 - Starting up
+INFO - Main - 2021-09-28 19:58:39 - Starting up
+INFO - Main - 2021-09-28 20:00:14 - Starting up
+INFO - Main - 2021-09-28 20:00:15 - Successfully logged in
+INFO - Main - 2021-09-28 20:00:15 - Starting Messages
+INFO - Main - 2021-09-28 20:00:15 - Finished Messages
+INFO - Main - 2021-09-28 20:00:15 - Starting Posts
+DEBUG - CLI - 2021-09-28 20:05:18 - Starting CLI
+DEBUG - CLI - 2021-09-28 20:05:18 - Did not set import
+DEBUG - CLI - 2021-09-28 20:06:16 - Starting CLI
+DEBUG - CLI - 2021-09-28 20:06:16 - Did not set import
+DEBUG - CLI - 2021-09-28 20:06:55 - Starting CLI
+DEBUG - CLI - 2021-09-28 20:06:55 - Did not set import
+INFO - Main - 2021-09-28 20:09:04 - Starting up
+INFO - Main - 2021-09-28 20:09:06 - Successfully logged in
+INFO - Main - 2021-09-28 20:09:06 - Starting Messages
+INFO - Main - 2021-09-28 20:09:06 - Finished Messages
+INFO - Main - 2021-09-28 20:09:06 - Starting Posts
+INFO - Main - 2021-09-28 20:09:56 - Starting up
+INFO - Main - 2021-09-28 20:09:58 - Successfully logged in
+INFO - Main - 2021-09-28 20:09:58 - Starting Messages
+INFO - Main - 2021-09-28 20:09:58 - Finished Messages
+INFO - Main - 2021-09-28 20:09:58 - Starting Posts
+INFO - Main - 2021-09-28 20:10:30 - Starting up
+INFO - Main - 2021-09-28 20:10:31 - Successfully logged in
+INFO - Main - 2021-09-28 20:10:31 - Starting Messages
+INFO - Main - 2021-09-28 20:10:32 - Finished Messages
+INFO - Main - 2021-09-28 20:10:32 - Starting Posts
+INFO - Main - 2021-09-28 20:11:11 - Starting up
+INFO - Main - 2021-09-28 20:11:12 - Successfully logged in
+INFO - Main - 2021-09-28 20:11:12 - Starting Messages
+INFO - Main - 2021-09-28 20:11:13 - Finished Messages
+INFO - Main - 2021-09-28 20:11:13 - Starting Posts
+INFO - Main - 2021-09-28 20:11:14 - Finished Posts
+INFO - Main - 2021-09-28 20:11:14 - Starting Comments
+INFO - Main - 2021-09-28 20:11:59 - Starting up
+INFO - Main - 2021-09-28 20:12:00 - Successfully logged in
+INFO - Main - 2021-09-28 20:12:00 - Starting Messages
+INFO - Main - 2021-09-28 20:12:00 - Finished Messages
+INFO - Main - 2021-09-28 20:12:00 - Starting Posts
+INFO - Main - 2021-09-28 20:12:01 - Finished Posts
+INFO - Main - 2021-09-28 20:12:01 - Starting Comments
+INFO - Main - 2021-09-28 20:12:07 - Finished Comments
+INFO - Main - 2021-09-28 20:12:07 - Starting Mentions
+INFO - Main - 2021-09-28 20:12:08 - Finished mentions
+INFO - Comment Remover - 2021-09-28 20:12:08 - Starting Downvoted Removal
+DEBUG - Comment Remover - 2021-09-28 20:12:08 - No comments were deleted
+INFO - Comment Remover - 2021-09-28 20:12:08 - Finished Downvote removal
+INFO - Main - 2021-09-28 20:12:08 - Shutting down
+INFO - Main - 2021-09-28 20:12:08 - Deleting log file
+INFO - Main - 2021-09-28 20:13:01 - Starting up
+INFO - Main - 2021-09-28 20:13:03 - Successfully logged in
+INFO - Main - 2021-09-28 20:13:03 - Starting Messages
+INFO - Main - 2021-09-28 20:13:04 - Finished Messages
+INFO - Main - 2021-09-28 20:13:04 - Starting Posts
+INFO - Main - 2021-09-28 20:13:05 - Finished Posts
+INFO - Main - 2021-09-28 20:13:05 - Starting Comments
+INFO - Main - 2021-09-28 20:13:11 - Finished Comments
+INFO - Main - 2021-09-28 20:13:11 - Starting Mentions
+INFO - Main - 2021-09-28 20:13:11 - Finished mentions
+INFO - Comment Remover - 2021-09-28 20:13:11 - Starting Downvoted Removal
+DEBUG - Comment Remover - 2021-09-28 20:13:11 - No comments were deleted
+INFO - Comment Remover - 2021-09-28 20:13:11 - Finished Downvote removal
+INFO - Main - 2021-09-28 20:13:11 - Shutting down
+INFO - Main - 2021-09-28 20:13:11 - Deleting log file
+INFO - Main - 2021-09-28 20:14:55 - Starting up
+INFO - Main - 2021-09-28 20:14:56 - Successfully logged in
+INFO - Main - 2021-09-28 20:14:56 - Starting Messages
+INFO - Main - 2021-09-28 20:14:57 - Finished Messages
+INFO - Main - 2021-09-28 20:14:57 - Starting Posts
+INFO - Main - 2021-09-28 20:14:58 - Finished Posts
+INFO - Main - 2021-09-28 20:14:58 - Starting Comments
+INFO - Main - 2021-09-28 20:15:04 - Finished Comments
+INFO - Main - 2021-09-28 20:15:04 - Starting Mentions
+INFO - Main - 2021-09-28 20:15:04 - Finished mentions
+INFO - Comment Remover - 2021-09-28 20:15:04 - Starting Downvoted Removal
+DEBUG - Comment Remover - 2021-09-28 20:15:04 - No comments were deleted
+INFO - Comment Remover - 2021-09-28 20:15:04 - Finished Downvote removal
+INFO - Main - 2021-09-28 20:15:04 - Shutting down
+INFO - Main - 2021-09-28 20:15:04 - Deleting log file
+INFO - Main - 2021-09-28 20:15:14 - Starting up
+INFO - Main - 2021-09-28 20:15:16 - Successfully logged in
+INFO - Main - 2021-09-28 20:15:16 - Starting Messages
+INFO - Main - 2021-09-28 20:15:16 - Finished Messages
+INFO - Main - 2021-09-28 20:15:16 - Starting Posts
+INFO - Main - 2021-09-28 20:15:17 - Finished Posts
+INFO - Main - 2021-09-28 20:15:17 - Starting Comments
+DEBUG - CLI - 2021-09-28 20:15:57 - Starting CLI
+DEBUG - CLI - 2021-09-28 20:15:57 - Did not set import
+DEBUG - CLI - 2021-09-28 20:17:15 - Starting CLI
+DEBUG - CLI - 2021-09-28 20:17:15 - Did not set import
+DEBUG - CLI - 2021-09-28 20:28:58 - Starting CLI
+DEBUG - CLI - 2021-09-28 20:28:58 - Did not set import
+INFO - Main - 2021-09-28 20:29:06 - Starting up
+INFO - Main - 2021-09-28 20:29:07 - Successfully logged in
+INFO - Main - 2021-09-28 20:29:07 - Starting Messages
+INFO - Main - 2021-09-28 20:29:08 - Finished Messages
+INFO - Main - 2021-09-28 20:29:08 - Starting Posts
+INFO - Main - 2021-09-28 20:29:09 - Finished Posts
+INFO - Main - 2021-09-28 20:29:09 - Starting Comments
