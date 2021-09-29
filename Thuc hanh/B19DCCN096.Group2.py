@@ -1,5 +1,6 @@
 import math
 import operator
+# Bai L.1
 def tim_chan_le():
     print('Nhap so phan tu cua day:')
     a = int(input())
@@ -25,6 +26,7 @@ def tim_chan_le():
     if len(s) == 1:
         return "Khong co dap an"
     return '(' + s + ')'
+# Bai L.2
 def tong_phan_tu():
     print('Nhap so phan tu cua day:')
     a = int(input())
@@ -39,6 +41,7 @@ def tong_phan_tu():
     print('Nhap gioi han trai va phai cua pham vi: ')
     m, n = map(int, input().split())
     return sum(b[m - 1 : n])
+# Bai L.3
 def dao_nguoc_chuoi():
     print('Nhap so phan tu cua day:')
     a = int(input())
@@ -53,6 +56,7 @@ def dao_nguoc_chuoi():
     for i in range(len(b)):
         b[i] = b[i][::-1]
     return b
+# Bai L.4
 def tim_phan_tu_chung():
     print('Nhap so danh sach:')
     a = int(input())
@@ -72,6 +76,7 @@ def tim_phan_tu_chung():
     for i in range(1, a):
         ans = [value for value in b[i] if value in ans]
     return ans
+# Bai L.5
 def kiem_tra_tinh_duy_nhat():
     print('Nhap so phan tu cua day:')
     a = int(input())
@@ -86,6 +91,7 @@ def kiem_tra_tinh_duy_nhat():
     if (len(set(b)) == len(b)):
         return "True"
     return "False"
+# Bai L.6
 def kiem_tra_day_da_sap_xep():
     print('Nhap so phan tu cua day:')
     a = int(input())
@@ -102,6 +108,7 @@ def kiem_tra_day_da_sap_xep():
     if (b == c):
         return "True"
     return "False"
+# Bai L.7
 def tim_cac_phan_tu_xuat_hien_nhieu_lan():
     print('Nhap so phan tu cua day:')
     a = int(input())
@@ -123,6 +130,7 @@ def tim_cac_phan_tu_xuat_hien_nhieu_lan():
     c.sort()
     c = list(set(c))
     return c
+# Bai L.8
 def trich_xuat_cot():
     print('Nhap so danh sach:')
     a = int(input())
@@ -144,6 +152,7 @@ def trich_xuat_cot():
     for i in b:
         k.append(i[d])
     return k
+# Bai L.9
 def xoa_mot_cot():
     print('Nhap so danh sach:')
     a = int(input())
@@ -163,6 +172,7 @@ def xoa_mot_cot():
     d = int(input('Nhap cot muon xoa'))
     [i.pop(d - 1) for i in b]
     return b
+# Bai L.10
 def cmp(a):
     c = 0
     for i in a:
@@ -202,26 +212,37 @@ def main():
     while 1:
         a = int(input())
         if a == 1:
+            # Bai L.1
             print(tim_chan_le())
         elif a == 2:
+            # Bai L.2
             print(tong_phan_tu())
         elif a == 3:
+            # Bai L.3
             print(dao_nguoc_chuoi())
         elif a == 4:
+            # Bai L.4
             print(tim_phan_tu_chung())
         elif a == 5:
+            # Bai L.5
             print(kiem_tra_tinh_duy_nhat())
         elif a == 6:
+            # Bai L.6
             print(kiem_tra_day_da_sap_xep())
         elif a == 7:
+            # Bai L.7
             print(tim_cac_phan_tu_xuat_hien_nhieu_lan())
         elif a == 8:
+            # Bai L.8
             print(trich_xuat_cot())
         elif a == 9:
+            # Bai L.9
             print(xoa_mot_cot())
         elif a == 10:
+            # Bai L.10
             print(sap_xep_ma_tran_theo_tong_cac_hang())
         else:
+            # Cu phap khong hop le
             print("Cu phap khong hop le, vui long nhap lai.")
             continue
         break
