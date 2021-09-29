@@ -199,27 +199,32 @@ def main():
     print('---8: Trich xuat mot cot trong danh sach long nhau')
     print('---9: Xoa mot cot trong danh sach long nhau')
     print('---10: Sap xep mot ma tran theo tong cac hang trong danh sach')
-    a = int(input())
-    if a == 1:
-        print(tim_chan_le())
-    elif a == 2:
-        print(tong_phan_tu())
-    elif a == 3:
-        print(dao_nguoc_chuoi())
-    elif a == 4:
-        print(tim_phan_tu_chung())
-    elif a == 5:
-        print(kiem_tra_tinh_duy_nhat())
-    elif a == 6:
-        print(kiem_tra_day_da_sap_xep())
-    elif a == 7:
-        print(tim_cac_phan_tu_xuat_hien_nhieu_lan())
-    elif a == 8:
-        print(trich_xuat_cot())
-    elif a == 9:
-        print(xoa_mot_cot())
-    elif a == 10:
-        print(sap_xep_ma_tran_theo_tong_cac_hang())
+    while 1:
+        a = int(input())
+        if a == 1:
+            print(tim_chan_le())
+        elif a == 2:
+            print(tong_phan_tu())
+        elif a == 3:
+            print(dao_nguoc_chuoi())
+        elif a == 4:
+            print(tim_phan_tu_chung())
+        elif a == 5:
+            print(kiem_tra_tinh_duy_nhat())
+        elif a == 6:
+            print(kiem_tra_day_da_sap_xep())
+        elif a == 7:
+            print(tim_cac_phan_tu_xuat_hien_nhieu_lan())
+        elif a == 8:
+            print(trich_xuat_cot())
+        elif a == 9:
+            print(xoa_mot_cot())
+        elif a == 10:
+            print(sap_xep_ma_tran_theo_tong_cac_hang())
+        else:
+            print("Cu phap khong hop le, vui long nhap lai.")
+            continue
+        break
 
 if __name__ == '__main__':
     main()
